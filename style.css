@@ -12,5 +12,7 @@ body{
     width:100%}
 .link-button{
     text-decoration: none;
-    
+    background-image: linear-gradient(rgb(192, 150, 73), tomato);
+    padding: 8px 25px;
+    border-radius: 30px;
         }
