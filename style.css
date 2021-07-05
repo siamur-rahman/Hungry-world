@@ -3,3 +3,8 @@ body{
     }
 .span-color{color:rgba(252, 138, 15, 0.891)
 }
+.section-area-flexible{
+    display: flex;
+}
+.half-width{
+    width: 50%;}
