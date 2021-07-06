@@ -45,9 +45,9 @@ padding-bottom:5%;
     }
     .recipies-item{
         width: 50%;
-        box-shadow:10px 10px 10px 3px;
-        
-        border-radius: 3px;
+        box-shadow:3px 4px 3px 4px rgb(247, 231, 202);
+        margin: 25px;
+        border-radius: 5p;
         padding: 2%;
         text-align-last:left;
     }
