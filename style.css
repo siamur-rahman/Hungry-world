@@ -64,10 +64,10 @@ footer{
 }
 
 #follower{
-    width:75%;
+    width:76%;
     box-shadow:3px 4px 3px 4px rgb(247, 231, 202);
-    margin: 40px;
+    margin-left: 87px;
     border-radius: 30px;
 }
-.text-color{color: beige;}
+.text-color{color: rgb(8, 97, 156);}
 #text{color:white}
