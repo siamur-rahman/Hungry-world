@@ -5,7 +5,7 @@ h1{font-size: 50px;
     padding-top: 6%;
 }
 h2{
-   font-size: 25px;
+   font-size: 30px;
 
    
  }
@@ -47,7 +47,7 @@ padding-bottom:5%;
         width: 50%;
         box-shadow:3px 4px 3px 4px rgb(247, 231, 202);
         margin: 25px;
-        border-radius: 5p;
+        border-radius: 5px;
         padding: 2%;
         text-align-last:left;
     }
@@ -57,5 +57,16 @@ padding-bottom:5%;
     .text-align{
         text-align: center;
     }    
-    
+footer{
+    text-align: center;
+    text-color:white;
+    background-color: black;
+}
+#follower{
+    width:75%;
+    box-shadow:3px 4px 3px 4px rgb(247, 231, 202);
+    box-decoration-break: slice;
+    margin: 40px;
+    border-radius: 30px;
+}
     
