@@ -14,6 +14,7 @@ font-size: 14px;
 padding-bottom:5%;
 }
     .span-color{color:rgba(252, 138, 15, 0.891)}
+    
 
     .section-area-flexible{
     display: flex;
@@ -59,14 +60,14 @@ padding-bottom:5%;
     }    
 footer{
     text-align: center;
-    text-color:white;
     background-color: black;
 }
+
 #follower{
     width:75%;
     box-shadow:3px 4px 3px 4px rgb(247, 231, 202);
-    box-decoration-break: slice;
     margin: 40px;
     border-radius: 30px;
 }
-    
+.text-color{color: beige;}
+#text{color:white}
